@@ -3,7 +3,7 @@
 import { useState } from "react";
 import { useMeeting } from "@videosdk.live/react-sdk";
 
-const BACKEND_URL = "https://xoots-backend.dev.captivat.io";
+const BACKEND_URL = "https://video-sdk-test.requestcatcher.com";
 
 interface ControlsProps {
   meetingId: string;
